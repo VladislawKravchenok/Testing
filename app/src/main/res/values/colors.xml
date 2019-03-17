@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF3C28</color>
+    <color name="colorPrimaryDark">#FC4E41</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="holoDark">#000000</color>
+
+    <color name="best">#FF3F00</color>
+    <color name="text">#FFFFFF</color>
+
+
+    <color name="blueOFF">#43139AFA</color>
+    <color name="blueON">#139AFA</color>
+    <color name="orangeOFF">#43FF7900</color>
+    <color name="orangeON">#FF7900</color>
+
+    <!--doubletimepicker layout-->
+    <color name="closeButton">#383838</color>
+    <color name="acceptButton">#FF3C00</color>
+</resources>
