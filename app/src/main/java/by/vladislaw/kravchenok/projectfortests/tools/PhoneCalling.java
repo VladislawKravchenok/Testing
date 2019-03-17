@@ -12,7 +12,7 @@ import static by.vladislaw.kravchenok.projectfortests.Constants.MY_PERMISSIONS_R
 
 public class PhoneCalling {
 
-    private static String phoneNumber = "tel:+375296038996";
+    private static String phoneNumber = "tel:+375296034321";
 
     public static void call(Activity activity) {
 
