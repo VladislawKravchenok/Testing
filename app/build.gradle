@@ -16,6 +16,11 @@ android {
         }
     }
 }
+repositories {
+    maven {
+        url "https://s3.amazonaws.com/repo.commonsware.com"
+    }
+}
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
@@ -26,4 +31,6 @@ dependencies {
     implementation 'joda-time:joda-time:2.10.1'
     implementation 'com.google.android.gms:play-services-location:16.0.0'
     implementation 'com.google.android.gms:play-services-maps:16.1.0'
+
+    implementation 'com.commonsware.cwac:provider:0.5.3'
 }
